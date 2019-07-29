@@ -14,7 +14,7 @@ Sem mais delongas, bora codar 😎
 
 ### 1
 
-Deverá ser retornado um _Array_ com o nome de todos os usuários ordenados de forma crescente através dos seus respectivos nomes.
+Deverá ser retornado um _Array_ com o nome de todos os usuários em ordem alfabética e crescente dos seus respectivos nomes.
 
 Resultado esperado:
 
